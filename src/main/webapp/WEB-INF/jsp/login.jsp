@@ -10,7 +10,7 @@
 
   <style>
     body {
-      background-image: url('2.jpeg');
+      background-image: url('https://i.pinimg.com/236x/f7/6f/f2/f76ff2ae2e8040d722e502913bf5abf2.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;

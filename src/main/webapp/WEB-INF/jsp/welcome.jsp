@@ -11,7 +11,7 @@
   <style>
     body {
 
-        background-image: url('1.jpeg');
+        background-image: url('https://i.pinimg.com/236x/44/8e/7a/448e7ad06d1606eaaa875613c72419ac.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
