@@ -1,16 +1,32 @@
-Login Page with Spring Boot & Bootstrap
-This project is a login page built using Spring Boot for the backend and Bootstrap for the frontend. It features a sleek, stylish design with a customizable background image and form validation, perfect for any web application needing a secure user login page.
+# Spring Boot Login Page Project
 
-Features
-User Authentication: Secure login form with basic input validation.
-Responsive Design: Uses Bootstrap to ensure the login page looks great on all devices.
-Customizable Background: Easily change the background image to suit your needs.
-User-Friendly Interface: Clean design and intuitive layout for a seamless user experience.
-Error Handling: Displays error messages if the user enters incorrect credentials.
-Project Setup
-Prerequisites
-To run this project, you'll need:
+This project is a simple Spring Boot application demonstrating a basic login page implementation. It includes user authentication and utilizes Spring Security for security management.
 
-Java (JDK 11 or higher)
-Maven (for building the project)
-An IDE such as IntelliJ IDEA or Eclipse (optional, but recommended)
+## Overview
+
+This project provides a basic login page built with Spring Boot, Spring Security, and Thymeleaf. It includes:
+
+- A login form
+- A simple user authentication mechanism
+- Basic security configuration to protect endpoints
+
+This project is a great starting point for learning about Spring Security and building secure web applications.
+
+## Features
+
+- **Secure Login:** Implements a basic username/password authentication flow.
+- **Customizable:** Easy to extend and customize to fit your specific requirements.
+- **Spring Security:** Leverages Spring Security for authentication and authorization.
+- **Thymeleaf Templates:** Uses Thymeleaf for server-side rendering of the login page.
+
+## Getting Started
+
+Here's how to get this project up and running on your local machine:
+
+### Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- **Java Development Kit (JDK) 8 or higher:** Download from [Oracle Java](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.java.net/projects/jdk/)
+- **Maven or Gradle:** (Maven is used in this example, adjust accordingly if you use Gradle) [Maven](https://maven.apache.org/download.cgi)
+- **Your IDE of Choice:** (IntelliJ IDEA, Eclipse, VS Code with Java extensions)
