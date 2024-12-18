@@ -1,8 +1,5 @@
-
-Certainly! Here's an awesome README.md template that you can use for your project. It will help provide a professional and informative overview of your project for others on GitHub:
-
-Awesome Login Page with Spring Boot & Bootstrap
-This project is a modern and responsive login page built using Spring Boot for the backend and Bootstrap for the frontend. It features a sleek, stylish design with a customizable background image and form validation, perfect for any web application needing a secure user login page.
+Login Page with Spring Boot & Bootstrap
+This project is a login page built using Spring Boot for the backend and Bootstrap for the frontend. It features a sleek, stylish design with a customizable background image and form validation, perfect for any web application needing a secure user login page.
 
 Features
 User Authentication: Secure login form with basic input validation.
