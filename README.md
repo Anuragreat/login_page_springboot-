@@ -16,8 +16,8 @@ This project is a great starting point for learning about Spring Security and bu
 
 - **Secure Login:** Implements a basic username/password authentication flow.
 - **Customizable:** Easy to extend and customize to fit your specific requirements.
-- **Spring Security:** Leverages Spring Security for authentication and authorization.
-- **Thymeleaf Templates:** Uses Thymeleaf for server-side rendering of the login page.
+
+
 
 ## Getting Started
 
