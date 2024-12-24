@@ -25,7 +25,7 @@ Here's how to get this project up and running on your local machine:
 
 ### Prerequisites
 
-Before you begin, make sure you have the following installed:
+Before you begin, make sure you have the following installed on your system:
 
 
 Here is the screenshots ![image](https://github.com/user-attachments/assets/d1842cac-6273-400c-8924-540dc0350cb9)    ![image](https://github.com/user-attachments/assets/58cd8d2b-e0c1-462b-a3ac-6c563c7f404f)
